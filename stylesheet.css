@@ -19,18 +19,6 @@ a {
   padding: 0 15px;
   margin: 0 auto;
   width: 100%;
-  white-space:nowrap;
-  overflow:hidden;
-  -webkit-animation: typing 5s steps(70, end);
-  animation: animasi-ketik 5s steps(70, end);
-}
-
-@keyframes animasi-ketik{
-  from { width: 0; }
-}
-
-@-webkit-keyframes animasi-ketik{
-  from { width: 0; }
 }
 .top-wrapper {
   padding: 180px 0 100px 0;
